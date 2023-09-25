@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "title": "<span style='font-size: 32px;'>Elevate E-Commerce with Lyceum:<br> Redefining Success</span>",   
+    "content": "At Lyceumerce, we're more than just a company; we're your dedicated partner in the world of ecommerce. We understand the challenges businesses face, and our personalized solutions and expert guidance are designed to help you succeed. Welcome to a journey of growth, together.",
+    "image": "/img/slid/02.jpg"
+  },
+  {
+    "id": 2,
+    "title": "<span style='font-size: 39px;'>Ecommerce Business Consultation For Clients</span>",
+    "content": "We offer tailored business consultation covering product evaluation, sourcing, budget management, market analysis, and account/store optimization. Our expertise helps you make informed decisions, boost efficiency, and stay competitive. Partner with us for strategic success..",
+    "image": "/img/slid/03.jpg"
+  },
+  {
+    "id": 3,
+    "title": "Business value through digital products",
+    "content": "",
+    "image": "/img/slid/01.jpg"
+  }
+]
