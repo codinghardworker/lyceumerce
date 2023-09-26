@@ -228,7 +228,7 @@ export const routerOptions = {
     component: _7d0fa9c5,
     name: "index"
   }, {
-    path: "/homepage/home4-dark",
+    path: "/",
     component: _c2e4954e,
     name: "homepage-home4-dark"
   }],
