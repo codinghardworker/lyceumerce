@@ -2,302 +2,301 @@
   {
     "name": "about-about-dark",
     "path": "/about/about-dark",
-    "component": "C:\\\\Users\\\\DELL\\\\Downloads\\\\vievue-10\\\\Main_files\\\\vie_vue\\\\pages\\\\about\\\\about-dark.vue",
+    "component": "C:\\\\Users\\\\DELL\\\\Desktop\\\\Lyceumerce1\\\\pages\\\\about\\\\about-dark.vue",
     "chunkName": "pages/about/about-dark",
-    "_name": "_f08c9d94"
+    "_name": "_ea28bf5c"
   },
   {
     "name": "about-about-light",
     "path": "/about/about-light",
-    "component": "C:\\\\Users\\\\DELL\\\\Downloads\\\\vievue-10\\\\Main_files\\\\vie_vue\\\\pages\\\\about\\\\about-light.vue",
+    "component": "C:\\\\Users\\\\DELL\\\\Desktop\\\\Lyceumerce1\\\\pages\\\\about\\\\about-light.vue",
     "chunkName": "pages/about/about-light",
-    "_name": "_095ff786"
+    "_name": "_6c6bebea"
   },
   {
     "name": "blog-details-blog-details-dark",
     "path": "/blog-details/blog-details-dark",
-    "component": "C:\\\\Users\\\\DELL\\\\Downloads\\\\vievue-10\\\\Main_files\\\\vie_vue\\\\pages\\\\blog-details\\\\blog-details-dark.vue",
+    "component": "C:\\\\Users\\\\DELL\\\\Desktop\\\\Lyceumerce1\\\\pages\\\\blog-details\\\\blog-details-dark.vue",
     "chunkName": "pages/blog-details/blog-details-dark",
-    "_name": "_b5a457b0"
+    "_name": "_6ad12244"
   },
   {
     "name": "blog-details-blog-details-light",
     "path": "/blog-details/blog-details-light",
-    "component": "C:\\\\Users\\\\DELL\\\\Downloads\\\\vievue-10\\\\Main_files\\\\vie_vue\\\\pages\\\\blog-details\\\\blog-details-light.vue",
+    "component": "C:\\\\Users\\\\DELL\\\\Desktop\\\\Lyceumerce1\\\\pages\\\\blog-details\\\\blog-details-light.vue",
     "chunkName": "pages/blog-details/blog-details-light",
-    "_name": "_cb1f9a58"
+    "_name": "_ed92af90"
   },
   {
     "name": "blog-grid-blog-grid-dark",
     "path": "/blog-grid/blog-grid-dark",
-    "component": "C:\\\\Users\\\\DELL\\\\Downloads\\\\vievue-10\\\\Main_files\\\\vie_vue\\\\pages\\\\blog-grid\\\\blog-grid-dark.vue",
+    "component": "C:\\\\Users\\\\DELL\\\\Desktop\\\\Lyceumerce1\\\\pages\\\\blog-grid\\\\blog-grid-dark.vue",
     "chunkName": "pages/blog-grid/blog-grid-dark",
-    "_name": "_588f5b94"
+    "_name": "_31076552"
   },
   {
     "name": "blog-grid-blog-grid-light",
     "path": "/blog-grid/blog-grid-light",
-    "component": "C:\\\\Users\\\\DELL\\\\Downloads\\\\vievue-10\\\\Main_files\\\\vie_vue\\\\pages\\\\blog-grid\\\\blog-grid-light.vue",
+    "component": "C:\\\\Users\\\\DELL\\\\Desktop\\\\Lyceumerce1\\\\pages\\\\blog-grid\\\\blog-grid-light.vue",
     "chunkName": "pages/blog-grid/blog-grid-light",
-    "_name": "_3d357686"
+    "_name": "_ec6e722c"
   },
   {
     "name": "blog-list-blog-list-dark",
     "path": "/blog-list/blog-list-dark",
-    "component": "C:\\\\Users\\\\DELL\\\\Downloads\\\\vievue-10\\\\Main_files\\\\vie_vue\\\\pages\\\\blog-list\\\\blog-list-dark.vue",
+    "component": "C:\\\\Users\\\\DELL\\\\Desktop\\\\Lyceumerce1\\\\pages\\\\blog-list\\\\blog-list-dark.vue",
     "chunkName": "pages/blog-list/blog-list-dark",
-    "_name": "_b0be8d94"
+    "_name": "_04efcc52"
   },
   {
     "name": "blog-list-blog-list-light",
     "path": "/blog-list/blog-list-light",
-    "component": "C:\\\\Users\\\\DELL\\\\Downloads\\\\vievue-10\\\\Main_files\\\\vie_vue\\\\pages\\\\blog-list\\\\blog-list-light.vue",
+    "component": "C:\\\\Users\\\\DELL\\\\Desktop\\\\Lyceumerce1\\\\pages\\\\blog-list\\\\blog-list-light.vue",
     "chunkName": "pages/blog-list/blog-list-light",
-    "_name": "_334c20f4"
+    "_name": "_32ed3fea"
   },
   {
     "name": "blog-blog-dark",
     "path": "/blog/blog-dark",
-    "component": "C:\\\\Users\\\\DELL\\\\Downloads\\\\vievue-10\\\\Main_files\\\\vie_vue\\\\pages\\\\blog\\\\blog-dark.vue",
+    "component": "C:\\\\Users\\\\DELL\\\\Desktop\\\\Lyceumerce1\\\\pages\\\\blog\\\\blog-dark.vue",
     "chunkName": "pages/blog/blog-dark",
-    "_name": "_7aede1dc"
+    "_name": "_5f37d5a4"
   },
   {
     "name": "blog-blog-light",
     "path": "/blog/blog-light",
-    "component": "C:\\\\Users\\\\DELL\\\\Downloads\\\\vievue-10\\\\Main_files\\\\vie_vue\\\\pages\\\\blog\\\\blog-light.vue",
+    "component": "C:\\\\Users\\\\DELL\\\\Desktop\\\\Lyceumerce1\\\\pages\\\\blog\\\\blog-light.vue",
     "chunkName": "pages/blog/blog-light",
-    "_name": "_287c552a"
+    "_name": "_53fbdae4"
   },
   {
     "name": "contact-contact-dark",
     "path": "/contact/contact-dark",
-    "component": "C:\\\\Users\\\\DELL\\\\Downloads\\\\vievue-10\\\\Main_files\\\\vie_vue\\\\pages\\\\contact\\\\contact-dark.vue",
+    "component": "C:\\\\Users\\\\DELL\\\\Desktop\\\\Lyceumerce1\\\\pages\\\\contact\\\\contact-dark.vue",
     "chunkName": "pages/contact/contact-dark",
-    "_name": "_eda459d4"
+    "_name": "_954a579c"
   },
   {
     "name": "contact-contact-light",
     "path": "/contact/contact-light",
-    "component": "C:\\\\Users\\\\DELL\\\\Downloads\\\\vievue-10\\\\Main_files\\\\vie_vue\\\\pages\\\\contact\\\\contact-light.vue",
+    "component": "C:\\\\Users\\\\DELL\\\\Desktop\\\\Lyceumerce1\\\\pages\\\\contact\\\\contact-light.vue",
     "chunkName": "pages/contact/contact-light",
-    "_name": "_367011a6"
+    "_name": "_e03997ec"
   },
   {
     "name": "homepage-home1-dark",
     "path": "/homepage/home1-dark",
-    "component": "C:\\\\Users\\\\DELL\\\\Downloads\\\\vievue-10\\\\Main_files\\\\vie_vue\\\\pages\\\\homepage\\\\home1-dark.vue",
+    "component": "C:\\\\Users\\\\DELL\\\\Desktop\\\\Lyceumerce1\\\\pages\\\\homepage\\\\home1-dark.vue",
     "chunkName": "pages/homepage/home1-dark",
-    "_name": "_7c9d3c08"
+    "_name": "_dcdc6540"
   },
   {
     "name": "homepage-home1-light",
     "path": "/homepage/home1-light",
-    "component": "C:\\\\Users\\\\DELL\\\\Downloads\\\\vievue-10\\\\Main_files\\\\vie_vue\\\\pages\\\\homepage\\\\home1-light.vue",
+    "component": "C:\\\\Users\\\\DELL\\\\Desktop\\\\Lyceumerce1\\\\pages\\\\homepage\\\\home1-light.vue",
     "chunkName": "pages/homepage/home1-light",
-    "_name": "_0e5e5f80"
+    "_name": "_3a8b609c"
   },
   {
     "name": "homepage-home2-dark",
     "path": "/homepage/home2-dark",
-    "component": "C:\\\\Users\\\\DELL\\\\Downloads\\\\vievue-10\\\\Main_files\\\\vie_vue\\\\pages\\\\homepage\\\\home2-dark.vue",
+    "component": "C:\\\\Users\\\\DELL\\\\Desktop\\\\Lyceumerce1\\\\pages\\\\homepage\\\\home2-dark.vue",
     "chunkName": "pages/homepage/home2-dark",
-    "_name": "_940a59ca"
+    "_name": "_f4498302"
   },
   {
     "name": "homepage-home2-light",
     "path": "/homepage/home2-light",
-    "component": "C:\\\\Users\\\\DELL\\\\Downloads\\\\vievue-10\\\\Main_files\\\\vie_vue\\\\pages\\\\homepage\\\\home2-light.vue",
+    "component": "C:\\\\Users\\\\DELL\\\\Desktop\\\\Lyceumerce1\\\\pages\\\\homepage\\\\home2-light.vue",
     "chunkName": "pages/homepage/home2-light",
-    "_name": "_b979db7e"
+    "_name": "_611fd946"
   },
   {
     "name": "homepage-home3-dark",
     "path": "/homepage/home3-dark",
-    "component": "C:\\\\Users\\\\DELL\\\\Downloads\\\\vievue-10\\\\Main_files\\\\vie_vue\\\\pages\\\\homepage\\\\home3-dark.vue",
+    "component": "C:\\\\Users\\\\DELL\\\\Desktop\\\\Lyceumerce1\\\\pages\\\\homepage\\\\home3-dark.vue",
     "chunkName": "pages/homepage/home3-dark",
-    "_name": "_ab77778c"
+    "_name": "_7a24af9e"
   },
   {
     "name": "homepage-home3-light",
     "path": "/homepage/home3-light",
-    "component": "C:\\\\Users\\\\DELL\\\\Downloads\\\\vievue-10\\\\Main_files\\\\vie_vue\\\\pages\\\\homepage\\\\home3-light.vue",
+    "component": "C:\\\\Users\\\\DELL\\\\Desktop\\\\Lyceumerce1\\\\pages\\\\homepage\\\\home3-light.vue",
     "chunkName": "pages/homepage/home3-light",
-    "_name": "_3827c502"
+    "_name": "_6454c61e"
   },
   {
     "name": "homepage-home4-dark",
     "path": "/homepage/home4-dark",
-    "component": "C:\\\\Users\\\\DELL\\\\Downloads\\\\vievue-10\\\\Main_files\\\\vie_vue\\\\pages\\\\homepage\\\\home4-dark.vue",
+    "component": "C:\\\\Users\\\\DELL\\\\Desktop\\\\Lyceumerce1\\\\pages\\\\homepage\\\\home4-dark.vue",
     "chunkName": "pages/homepage/home4-dark",
-    "_name": "_c2e4954e"
+    "_name": "_6e6e20bd"
   },
   {
     "name": "homepage-home4-light",
     "path": "/homepage/home4-light",
-    "component": "C:\\\\Users\\\\DELL\\\\Downloads\\\\vievue-10\\\\Main_files\\\\vie_vue\\\\pages\\\\homepage\\\\home4-light.vue",
+    "component": "C:\\\\Users\\\\DELL\\\\Desktop\\\\Lyceumerce1\\\\pages\\\\homepage\\\\home4-light.vue",
     "chunkName": "pages/homepage/home4-light",
-    "_name": "_65e7107a"
+    "_name": "_0d8d0e42"
   },
   {
     "name": "homepage-home5-dark",
     "path": "/homepage/home5-dark",
-    "component": "C:\\\\Users\\\\DELL\\\\Downloads\\\\vievue-10\\\\Main_files\\\\vie_vue\\\\pages\\\\homepage\\\\home5-dark.vue",
+    "component": "C:\\\\Users\\\\DELL\\\\Desktop\\\\Lyceumerce1\\\\pages\\\\homepage\\\\home5-dark.vue",
     "chunkName": "pages/homepage/home5-dark",
-    "_name": "_da51b310"
+    "_name": "_62b791dc"
   },
   {
     "name": "homepage-home5-light",
     "path": "/homepage/home5-light",
-    "component": "C:\\\\Users\\\\DELL\\\\Downloads\\\\vievue-10\\\\Main_files\\\\vie_vue\\\\pages\\\\homepage\\\\home5-light.vue",
+    "component": "C:\\\\Users\\\\DELL\\\\Desktop\\\\Lyceumerce1\\\\pages\\\\homepage\\\\home5-light.vue",
     "chunkName": "pages/homepage/home5-light",
-    "_name": "_61f12a84"
+    "_name": "_e3c3a8c0"
   },
   {
     "name": "homepage-home6-dark",
     "path": "/homepage/home6-dark",
-    "component": "C:\\\\Users\\\\DELL\\\\Downloads\\\\vievue-10\\\\Main_files\\\\vie_vue\\\\pages\\\\homepage\\\\home6-dark.vue",
+    "component": "C:\\\\Users\\\\DELL\\\\Desktop\\\\Lyceumerce1\\\\pages\\\\homepage\\\\home6-dark.vue",
     "chunkName": "pages/homepage/home6-dark",
-    "_name": "_f1bed0d2"
+    "_name": "_570102fb"
   },
   {
     "name": "homepage-home6-light",
     "path": "/homepage/home6-light",
-    "component": "C:\\\\Users\\\\DELL\\\\Downloads\\\\vievue-10\\\\Main_files\\\\vie_vue\\\\pages\\\\homepage\\\\home6-light.vue",
+    "component": "C:\\\\Users\\\\DELL\\\\Desktop\\\\Lyceumerce1\\\\pages\\\\homepage\\\\home6-light.vue",
     "chunkName": "pages/homepage/home6-light",
-    "_name": "_12544576"
+    "_name": "_2302de61"
   },
   {
     "name": "homepage-home7-dark",
     "path": "/homepage/home7-dark",
-    "component": "C:\\\\Users\\\\DELL\\\\Downloads\\\\vievue-10\\\\Main_files\\\\vie_vue\\\\pages\\\\homepage\\\\home7-dark.vue",
+    "component": "C:\\\\Users\\\\DELL\\\\Desktop\\\\Lyceumerce1\\\\pages\\\\homepage\\\\home7-dark.vue",
     "chunkName": "pages/homepage/home7-dark",
-    "_name": "_7b6a08b6"
+    "_name": "_4b4a741a"
   },
   {
     "name": "homepage-home7-light",
     "path": "/homepage/home7-light",
-    "component": "C:\\\\Users\\\\DELL\\\\Downloads\\\\vievue-10\\\\Main_files\\\\vie_vue\\\\pages\\\\homepage\\\\home7-light.vue",
+    "component": "C:\\\\Users\\\\DELL\\\\Desktop\\\\Lyceumerce1\\\\pages\\\\homepage\\\\home7-light.vue",
     "chunkName": "pages/homepage/home7-light",
-    "_name": "_e88adff4"
+    "_name": "_9030ddbc"
   },
   {
     "name": "homepage-home8-dark",
     "path": "/homepage/home8-dark",
-    "component": "C:\\\\Users\\\\DELL\\\\Downloads\\\\vievue-10\\\\Main_files\\\\vie_vue\\\\pages\\\\homepage\\\\home8-dark.vue",
+    "component": "C:\\\\Users\\\\DELL\\\\Desktop\\\\Lyceumerce1\\\\pages\\\\homepage\\\\home8-dark.vue",
     "chunkName": "pages/homepage/home8-dark",
-    "_name": "_6fb379d5"
+    "_name": "_3f93e539"
   },
   {
     "name": "homepage-home8-light",
     "path": "/homepage/home8-light",
-    "component": "C:\\\\Users\\\\DELL\\\\Downloads\\\\vievue-10\\\\Main_files\\\\vie_vue\\\\pages\\\\homepage\\\\home8-light.vue",
+    "component": "C:\\\\Users\\\\DELL\\\\Desktop\\\\Lyceumerce1\\\\pages\\\\homepage\\\\home8-light.vue",
     "chunkName": "pages/homepage/home8-light",
-    "_name": "_209f42c7"
+    "_name": "_4ccc43e3"
   },
   {
     "name": "project-details2-project-details2-dark",
     "path": "/project-details2/project-details2-dark",
-    "component": "C:\\\\Users\\\\DELL\\\\Downloads\\\\vievue-10\\\\Main_files\\\\vie_vue\\\\pages\\\\project-details2\\\\project-details2-dark.vue",
+    "component": "C:\\\\Users\\\\DELL\\\\Desktop\\\\Lyceumerce1\\\\pages\\\\project-details2\\\\project-details2-dark.vue",
     "chunkName": "pages/project-details2/project-details2-dark",
-    "_name": "_6dcf6c8e"
+    "_name": "_1c7e42ac"
   },
   {
     "name": "project-details2-project-details2-light",
     "path": "/project-details2/project-details2-light",
-    "component": "C:\\\\Users\\\\DELL\\\\Downloads\\\\vievue-10\\\\Main_files\\\\vie_vue\\\\pages\\\\project-details2\\\\project-details2-light.vue",
+    "component": "C:\\\\Users\\\\DELL\\\\Desktop\\\\Lyceumerce1\\\\pages\\\\project-details2\\\\project-details2-light.vue",
     "chunkName": "pages/project-details2/project-details2-light",
-    "_name": "_33fcb1a4"
+    "_name": "_3f830edc"
   },
   {
     "name": "showcase-showcase-dark",
     "path": "/showcase/showcase-dark",
-    "component": "C:\\\\Users\\\\DELL\\\\Downloads\\\\vievue-10\\\\Main_files\\\\vie_vue\\\\pages\\\\showcase\\\\showcase-dark.vue",
+    "component": "C:\\\\Users\\\\DELL\\\\Desktop\\\\Lyceumerce1\\\\pages\\\\showcase\\\\showcase-dark.vue",
     "chunkName": "pages/showcase/showcase-dark",
-    "_name": "_f6e9d108"
+    "_name": "_597c4198"
   },
   {
     "name": "showcase-showcase-light",
     "path": "/showcase/showcase-light",
-    "component": "C:\\\\Users\\\\DELL\\\\Downloads\\\\vievue-10\\\\Main_files\\\\vie_vue\\\\pages\\\\showcase\\\\showcase-light.vue",
+    "component": "C:\\\\Users\\\\DELL\\\\Desktop\\\\Lyceumerce1\\\\pages\\\\showcase\\\\showcase-light.vue",
     "chunkName": "pages/showcase/showcase-light",
-    "_name": "_b2894c00"
+    "_name": "_6fef7364"
   },
   {
     "name": "showcase2-showcase2-dark",
     "path": "/showcase2/showcase2-dark",
-    "component": "C:\\\\Users\\\\DELL\\\\Downloads\\\\vievue-10\\\\Main_files\\\\vie_vue\\\\pages\\\\showcase2\\\\showcase2-dark.vue",
+    "component": "C:\\\\Users\\\\DELL\\\\Desktop\\\\Lyceumerce1\\\\pages\\\\showcase2\\\\showcase2-dark.vue",
     "chunkName": "pages/showcase2/showcase2-dark",
-    "_name": "_14f586b6"
+    "_name": "_724499d2"
   },
   {
     "name": "showcase2-showcase2-light",
     "path": "/showcase2/showcase2-light",
-    "component": "C:\\\\Users\\\\DELL\\\\Downloads\\\\vievue-10\\\\Main_files\\\\vie_vue\\\\pages\\\\showcase2\\\\showcase2-light.vue",
+    "component": "C:\\\\Users\\\\DELL\\\\Desktop\\\\Lyceumerce1\\\\pages\\\\showcase2\\\\showcase2-light.vue",
     "chunkName": "pages/showcase2/showcase2-light",
-    "_name": "_239ed206"
+    "_name": "_7032226a"
   },
   {
     "name": "showcase3-showcase3-dark",
     "path": "/showcase3/showcase3-dark",
-    "component": "C:\\\\Users\\\\DELL\\\\Downloads\\\\vievue-10\\\\Main_files\\\\vie_vue\\\\pages\\\\showcase3\\\\showcase3-dark.vue",
+    "component": "C:\\\\Users\\\\DELL\\\\Desktop\\\\Lyceumerce1\\\\pages\\\\showcase3\\\\showcase3-dark.vue",
     "chunkName": "pages/showcase3/showcase3-dark",
-    "_name": "_15d7ed56"
+    "_name": "_73270072"
   },
   {
     "name": "showcase3-showcase3-light",
     "path": "/showcase3/showcase3-light",
-    "component": "C:\\\\Users\\\\DELL\\\\Downloads\\\\vievue-10\\\\Main_files\\\\vie_vue\\\\pages\\\\showcase3\\\\showcase3-light.vue",
+    "component": "C:\\\\Users\\\\DELL\\\\Desktop\\\\Lyceumerce1\\\\pages\\\\showcase3\\\\showcase3-light.vue",
     "chunkName": "pages/showcase3/showcase3-light",
-    "_name": "_3f093f66"
+    "_name": "_e8c6e06c"
   },
   {
     "name": "works-works-dark",
     "path": "/works/works-dark",
-    "component": "C:\\\\Users\\\\DELL\\\\Downloads\\\\vievue-10\\\\Main_files\\\\vie_vue\\\\pages\\\\works\\\\works-dark.vue",
+    "component": "C:\\\\Users\\\\DELL\\\\Desktop\\\\Lyceumerce1\\\\pages\\\\works\\\\works-dark.vue",
     "chunkName": "pages/works/works-dark",
-    "_name": "_bb676a54"
+    "_name": "_b5038c1c"
   },
   {
     "name": "works-works-light",
     "path": "/works/works-light",
-    "component": "C:\\\\Users\\\\DELL\\\\Downloads\\\\vievue-10\\\\Main_files\\\\vie_vue\\\\pages\\\\works\\\\works-light.vue",
+    "component": "C:\\\\Users\\\\DELL\\\\Desktop\\\\Lyceumerce1\\\\pages\\\\works\\\\works-light.vue",
     "chunkName": "pages/works/works-light",
-    "_name": "_412091e6"
+    "_name": "_b7a6f36c"
   },
   {
     "name": "works2-works2-dark",
     "path": "/works2/works2-dark",
-    "component": "C:\\\\Users\\\\DELL\\\\Downloads\\\\vievue-10\\\\Main_files\\\\vie_vue\\\\pages\\\\works2\\\\works2-dark.vue",
+    "component": "C:\\\\Users\\\\DELL\\\\Desktop\\\\Lyceumerce1\\\\pages\\\\works2\\\\works2-dark.vue",
     "chunkName": "pages/works2/works2-dark",
-    "_name": "_3da76cf6"
+    "_name": "_3c1a0512"
   },
   {
     "name": "works2-works2-light",
     "path": "/works2/works2-light",
-    "component": "C:\\\\Users\\\\DELL\\\\Downloads\\\\vievue-10\\\\Main_files\\\\vie_vue\\\\pages\\\\works2\\\\works2-light.vue",
+    "component": "C:\\\\Users\\\\DELL\\\\Desktop\\\\Lyceumerce1\\\\pages\\\\works2\\\\works2-light.vue",
     "chunkName": "pages/works2/works2-light",
-    "_name": "_1129b3c6"
+    "_name": "_3debc1ac"
   },
   {
     "name": "works3-works3-dark",
     "path": "/works3/works3-dark",
-    "component": "C:\\\\Users\\\\DELL\\\\Downloads\\\\vievue-10\\\\Main_files\\\\vie_vue\\\\pages\\\\works3\\\\works3-dark.vue",
+    "component": "C:\\\\Users\\\\DELL\\\\Desktop\\\\Lyceumerce1\\\\pages\\\\works3\\\\works3-dark.vue",
     "chunkName": "pages/works3/works3-dark",
-    "_name": "_12fa7f98"
+    "_name": "_16154f60"
   },
   {
     "name": "works3-works3-light",
     "path": "/works3/works3-light",
-    "component": "C:\\\\Users\\\\DELL\\\\Downloads\\\\vievue-10\\\\Main_files\\\\vie_vue\\\\pages\\\\works3\\\\works3-light.vue",
+    "component": "C:\\\\Users\\\\DELL\\\\Desktop\\\\Lyceumerce1\\\\pages\\\\works3\\\\works3-light.vue",
     "chunkName": "pages/works3/works3-light",
-    "_name": "_73b8c848"
+    "_name": "_439933ac"
   },
   {
-    "name": "index",
+    "name": "homepage-home4-dark",
     "path": "/",
-    "component": "C:\\\\Users\\\\DELL\\\\Downloads\\\\vievue-10\\\\Main_files\\\\vie_vue\\\\pages\\\\index.vue",
-    "chunkName": "pages/index",
-    "_name": "_7d0fa9c5"
+    "component": "C:\\\\Users\\\\DELL\\\\Desktop\\\\Lyceumerce1\\\\pages\\\\homepage\\\\home4-dark.vue",
+    "_name": "_6e6e20bd"
   }
 ]

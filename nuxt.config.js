@@ -1,5 +1,14 @@
 export default {
   // Global page headers: https://go.nuxtjs.dev/config-head
+  router: {
+    extendRoutes(routes, resolve) {
+      routes.push({
+        name: 'homepage-home4-dark',
+        path: '/',
+        component: resolve(__dirname, 'pages/homepage/home4-dark.vue'), // Path to your custom default route component
+      });
+    },
+  },
   head: {
     title: "Vie ",
     htmlAttrs: {
