@@ -1,1 +1,15 @@
-{"orgId":"N6Mun7bLpXyloNVtFlKDSQF9","projectId":"prj_liwIFqnPxG8UI4NMEqdgp8m22oY0"}
+{
+  "projectId": "prj_liwIFqnPxG8UI4NMEqdgp8m22oY0",
+  "orgId": "N6Mun7bLpXyloNVtFlKDSQF9",
+  "settings": {
+    "createdAt": 1695724281244,
+    "framework": "nuxtjs",
+    "devCommand": null,
+    "installCommand": null,
+    "buildCommand": null,
+    "outputDirectory": null,
+    "rootDirectory": null,
+    "directoryListing": false,
+    "nodeVersion": "18.x"
+  }
+}
