@@ -53,7 +53,8 @@ const emptyFn = () => {}
 Vue.use(Router)
 
 export const routerOptions = {
-  base: '/homepage/home4-dark',
+  mode: 'history',
+  base: '/',
   linkActiveClass: 'nuxt-link-active',
   linkExactActiveClass: 'nuxt-link-exact-active',
   scrollBehavior,
@@ -130,10 +131,6 @@ export const routerOptions = {
     path: "/homepage/home3-light",
     component: _3827c502,
     name: "homepage-home3-light"
-  }, {
-    path: "/homepage/home4-dark",
-    component: _c2e4954e,
-    name: "homepage-home4-dark"
   }, {
     path: "/homepage/home4-light",
     component: _65e7107a,
@@ -227,12 +224,14 @@ export const routerOptions = {
     component: _73b8c848,
     name: "works3-works3-light"
   }, {
-    path: "/",
+    path: "/index",
     component: _7d0fa9c5,
     name: "index"
+  }, {
+    path: "/homepage/home4-dark",
+    component: _c2e4954e,
+    name: "homepage-home4-dark"
   }],
-
-  fallback: false
 }
 
 export function createRouter (ssrContext, config) {
