@@ -54,7 +54,7 @@ Vue.use(Router)
 
 export const routerOptions = {
   mode: 'history',
-  base: '//homepage/home4-dark',
+  base: '/homepage/home4-dark',
   linkActiveClass: 'nuxt-link-active',
   linkExactActiveClass: 'nuxt-link-exact-active',
   scrollBehavior,
