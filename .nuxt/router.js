@@ -228,13 +228,9 @@ export const routerOptions = {
     component: _73b8c848,
     name: "works3-works3-light"
   }, {
-    path: "index",
+    path: "/",
     component: _7d0fa9c5,
     name: "index"
-  }, {
-    path: "/",
-    component: _c2e4954e,
-    name: "homepage-home4-dark"
   }],
 
   fallback: false
