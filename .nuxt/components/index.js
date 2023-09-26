@@ -1,6 +1,6 @@
 export const AboutIntro = () => import('../..\\components\\About-intro\\index.vue' /* webpackChunkName: "components/about-intro" */).then(c => wrapFunctional(c.default || c))
-export const AboutUs2 = () => import('../..\\components\\About-us2\\index.vue' /* webpackChunkName: "components/about-us2" */).then(c => wrapFunctional(c.default || c))
 export const AboutUs1 = () => import('../..\\components\\About-us1\\index.vue' /* webpackChunkName: "components/about-us1" */).then(c => wrapFunctional(c.default || c))
+export const AboutUs2 = () => import('../..\\components\\About-us2\\index.vue' /* webpackChunkName: "components/about-us2" */).then(c => wrapFunctional(c.default || c))
 export const AboutUs3 = () => import('../..\\components\\About-us3\\index.vue' /* webpackChunkName: "components/about-us3" */).then(c => wrapFunctional(c.default || c))
 export const AboutUs4 = () => import('../..\\components\\About-us4\\index.vue' /* webpackChunkName: "components/about-us4" */).then(c => wrapFunctional(c.default || c))
 export const AboutUs5 = () => import('../..\\components\\About-us5\\index.vue' /* webpackChunkName: "components/about-us5" */).then(c => wrapFunctional(c.default || c))

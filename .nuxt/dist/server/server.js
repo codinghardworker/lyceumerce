@@ -430,8 +430,8 @@ __webpack_require__.r(__webpack_exports__);
 var components_namespaceObject = {};
 __webpack_require__.r(components_namespaceObject);
 __webpack_require__.d(components_namespaceObject, "AboutIntro", function() { return AboutIntro; });
-__webpack_require__.d(components_namespaceObject, "AboutUs2", function() { return AboutUs2; });
 __webpack_require__.d(components_namespaceObject, "AboutUs1", function() { return AboutUs1; });
+__webpack_require__.d(components_namespaceObject, "AboutUs2", function() { return AboutUs2; });
 __webpack_require__.d(components_namespaceObject, "AboutUs3", function() { return AboutUs3; });
 __webpack_require__.d(components_namespaceObject, "AboutUs4", function() { return AboutUs4; });
 __webpack_require__.d(components_namespaceObject, "AboutUs5", function() { return AboutUs5; });
@@ -2078,8 +2078,8 @@ const layouts = {
 });
 // CONCATENATED MODULE: ./.nuxt/components/index.js
 const AboutIntro = () => __webpack_require__.e(/* import() | components/about-intro */ 1).then(__webpack_require__.bind(null, 83)).then(c => wrapFunctional(c.default || c));
-const AboutUs2 = () => __webpack_require__.e(/* import() | components/about-us2 */ 3).then(__webpack_require__.bind(null, 101)).then(c => wrapFunctional(c.default || c));
 const AboutUs1 = () => __webpack_require__.e(/* import() | components/about-us1 */ 2).then(__webpack_require__.bind(null, 91)).then(c => wrapFunctional(c.default || c));
+const AboutUs2 = () => __webpack_require__.e(/* import() | components/about-us2 */ 3).then(__webpack_require__.bind(null, 101)).then(c => wrapFunctional(c.default || c));
 const AboutUs3 = () => __webpack_require__.e(/* import() | components/about-us3 */ 4).then(__webpack_require__.bind(null, 104)).then(c => wrapFunctional(c.default || c));
 const AboutUs4 = () => __webpack_require__.e(/* import() | components/about-us4 */ 5).then(__webpack_require__.bind(null, 108)).then(c => wrapFunctional(c.default || c));
 const AboutUs5 = () => __webpack_require__.e(/* import() | components/about-us5 */ 6).then(__webpack_require__.bind(null, 81)).then(c => wrapFunctional(c.default || c));
