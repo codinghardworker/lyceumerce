@@ -75,7 +75,6 @@ export default {
   // target: "static",
   // Modules for dev and build (recommended): https://go.nuxtjs.dev/config-modules
   buildModules: [],
-  devServerHandlers: [],
 
   // Modules: https://go.nuxtjs.dev/config-modules
   modules: [["vue-scrollto/nuxt", { duration: 1000 }]],
