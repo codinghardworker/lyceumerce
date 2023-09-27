@@ -1,6 +1,6 @@
+export { default as AboutIntro } from '../..\\components\\About-intro\\index.vue'
 export { default as AboutUs1 } from '../..\\components\\About-us1\\index.vue'
 export { default as AboutUs2 } from '../..\\components\\About-us2\\index.vue'
-export { default as AboutIntro } from '../..\\components\\About-intro\\index.vue'
 export { default as AboutUs3 } from '../..\\components\\About-us3\\index.vue'
 export { default as AboutUs4 } from '../..\\components\\About-us4\\index.vue'
 export { default as AboutUs5 } from '../..\\components\\About-us5\\index.vue'
